@@ -1,6 +1,6 @@
 {
   "name": "Start on Heroku: React",
-  "description": "A barebones React app, which can easily be deployed to Heroku.",
+  "description": "A bare-bones React app, which can easily be deployed to Heroku.",
   "repository": "https://github.com/Kepch1k/react-spa",
   "buildpacks": [
     {
